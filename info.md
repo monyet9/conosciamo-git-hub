@@ -1,5 +1,5 @@
 # Info Author
-| USERNAME | GENDER | 
-|--- |--- |
-| monyet9 | M |
+| USERNAME | GENDER | FAVORITE GAME |
+|--- |--- |--- |
+| monyet9 | M | FOOTBAL |
 
