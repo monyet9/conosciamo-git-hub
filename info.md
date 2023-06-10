@@ -1,5 +1,5 @@
 # Info Author
-| USERNAME | GENDER | HOLDER |
+| USERNAME | GENDER | FAVORITE GAME |
 |--- |--- |--- |
-| monyet9 | M | CCC|
+| monyet9 | M | FOOTBAL |
 
