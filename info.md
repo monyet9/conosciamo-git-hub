@@ -1,5 +1,5 @@
-# Info UserInfo
-| Name |
-|--- |
-| monyet9 |
+# Info Author
+| USERNAME | GENDER | 
+|--- |--- |
+| monyet9 | M |
 
